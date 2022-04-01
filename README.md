@@ -1,6 +1,6 @@
-# simple_calculator
+# Currency Convert
 
-A new Flutter application.
+A currency converter application.
 
 ## Getting Started
 
