@@ -5,7 +5,7 @@ import 'package:simple_calculator/functionality/currencies.dart';
 
 import 'package:http/http.dart' as http;
 
-const String apiKey = '1e3f7a9868-6bc4f009a2-r2bmit';
+const String apiKey = 'api_key';
 
 // const String url = 'https://api.fastforex.io/fetch-multi?from=USD&to=EUR%2CGBP%2CCHF&api_key=$apiKey';
 
